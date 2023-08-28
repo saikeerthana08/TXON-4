@@ -152,7 +152,7 @@
 }
 
 .services-section-sub-heading {
-    color: #cced00;
+    color: #6667a8;
     font-family: "Roboto";
     font-size: 20px;
     font-weight: bold;
@@ -210,6 +210,14 @@
     z-index: 10;
     cursor: pointer;
     color: #008000;
+}
+/*portfolio*/
+.card{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 /* footer styling */
 #footer {
